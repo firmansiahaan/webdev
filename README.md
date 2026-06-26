@@ -1,8 +1,8 @@
-# web development
+# Web Development
 Web Development with react and django
 
 1. Blog App
-   <img width="1201" height="657" alt="image" src="https://github.com/user-attachments/assets/140924ef-4352-4b53-b034-b86006e02291" />
+   <img width="1361" height="657" alt="image" src="https://github.com/user-attachments/assets/715682c1-3c1f-4997-b71f-9b670af6e66f" />
 
 3. Social Website
    
